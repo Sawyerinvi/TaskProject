@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class IfStatementTask : MonoBehaviour
+public class _2IfStatementTask : MonoBehaviour
 {
     //Перед выполнение задания повесте данный скрипт на обьект Target на сцене
     //и убедитесь что на нем нет других скриптов

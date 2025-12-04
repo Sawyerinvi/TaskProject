@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ArrayTask : MonoBehaviour
+public class _4ArrayTask : MonoBehaviour
 {
     //Перед выполнение задания повесте данный скрипт на обьект Target на сцене
     //и убедитесь что на нем нет других скриптов

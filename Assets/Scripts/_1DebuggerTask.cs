@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class DebuggerTask : MonoBehaviour
+public class _1DebuggerTask : MonoBehaviour
 {
     //Перед выполнение задания повесте данный скрипт на обьект Target на сцене
     //и убедитесь что на нем нет других скриптов

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NumberChangeTask : MonoBehaviour
+public class _3NumberChangeTask : MonoBehaviour
 {
     //Перед выполнение задания повесте данный скрипт на обьект Target на сцене
     //и убедитесь что на нем нет других скриптов
